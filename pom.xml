@@ -7,7 +7,7 @@
 
   <groupId>org.dozerdb</groupId>
   <artifactId>dozerdb-plugin</artifactId>
-  <version>4.4.25.0-alpha.1</version>
+  <version>4.4.26.0-alpha.1</version>
   <packaging>jar</packaging>
   <name>dozerdb-plugin</name>
   <description>DozerDB Plugin for Neo4j Community.  This project builds the plugin using the proper dozerdb-core and dozerdb-browser versions.</description>
@@ -51,7 +51,7 @@
     <maven.build.timestamp.format>yyMMddHHmmssSSS</maven.build.timestamp.format>
     <!-- The dozer-db plugin version does not have to match the dozerdb-core version number because updates to the dozerdb-browser may cause a version bump. -->
     <dozerdb-browser.version>5.12.0.0</dozerdb-browser.version>
-    <dozerdb-core.version>4.4.25-1.0.0-alpha.1</dozerdb-core.version>
+    <dozerdb-core.version>4.4.26-1.0.0-alpha.1</dozerdb-core.version>
   </properties>
 
 

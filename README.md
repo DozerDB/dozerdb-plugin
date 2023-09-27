@@ -17,7 +17,7 @@ Example - for Neo4j version 5.12.0 - the first release would be 5.12.0.0.
 If a change occurs within the dozerdb-browser or dozerdb-core package - then the version would become:  5.12.0.1 and so on.
 
 ## Development
-Please ensure you use java 17 or above when working on the plugin.
+Please ensure you use java 11 or above when working on the plugin version 4.x.
 
 If you would like to use an open source java version manager - please check out https://sdkman.io/
 For those using sdkman - you can use the following command to switch to the favor of openjdk that we use.
@@ -25,7 +25,7 @@ For those using sdkman - you can use the following command to switch to the favo
 
 
 ## Building
-Ensure you have JDK 17+ first or you will get compile errors.
+Ensure you have JDK 11+ (For 4.x) first or you will get compile errors.
 
 To build the project - you can run the following command:
 ```
