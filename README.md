@@ -13,8 +13,8 @@ The plugin combines the dozerdb-core and dozerdb-browser artifacts into an uber 
 
 The version uses the current Neo4j full version number and appends the final number anytime the dozerdb-core or dozerdb-browser projects have an update.
 
-Example - for Neo4j version 5.12.0 - the first release would be 5.12.0.0.
-If a change occurs within the dozerdb-browser or dozerdb-core package - then the version would become:  5.12.0.1 and so on.
+Example - for Neo4j version 5.16.0 - the first release would be 5.16.0.0.
+If a change occurs within the dozerdb-browser or dozerdb-core package - then the version would become:  5.16.0.1 and so on.
 
 ## Development
 Please ensure you use java 17 or above when working on the plugin.
