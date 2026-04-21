@@ -9,7 +9,7 @@
 <p align="center">
   <a href="https://github.com/dozerdb/dozerdb-plugin/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-GPLv3-blue?style=for-the-badge" alt="License"></a>
   <a href="#-development"><img src="https://img.shields.io/badge/Java-17+-orange?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java 17+"></a>
-  <a href="https://neo4j.com"><img src="https://img.shields.io/badge/Neo4j-5.25.1-green?style=for-the-badge&logo=neo4j&logoColor=white" alt="Neo4j"></a>
+  <a href="https://neo4j.com"><img src="https://img.shields.io/badge/Neo4j-5.26.22-green?style=for-the-badge&logo=neo4j&logoColor=white" alt="Neo4j"></a>
 </p>
 
 <p align="center">
